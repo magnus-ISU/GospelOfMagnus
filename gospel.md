@@ -1058,7 +1058,7 @@ Luke 24:52-53
 52 And they worshiped him, and returned to Jerusalem with great joy;  
 53 and they were continually in the temple blessing God.  
 
-## In one week Jesus appears again in Jerusalem, including to Thomas
+## In one week Jesus appears again in Jerusalem, including to Thomas in John
 
 John 20:24-31  
 24 But Thomas (who was called the Twin), one of the twelve, was not with them when Jesus came.  
