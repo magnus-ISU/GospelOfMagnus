@@ -1,5 +1,7 @@
 # The Gospel according to Mark and Matthew and Luke and John all
 
+## Before the festival of Passover
+
 Matthew 26:1-4
 1 When Jesus had finished saying all these things, he said to his disciples,
 2 "You know that after two days the Passover is coming, and the Son of Man will be handed over to be crucified."
@@ -16,6 +18,8 @@ John 13:1-2
 1 Now before the festival of the Passover, Jesus knew that his hour had come to depart from this world and go to the Father. Having loved his own who were in the world, he loved them to the end.
 2 The devil had already put it into the heart of Judas son of Simon Iscariot to betray him...
 
+## The waste of the ointment
+
 Mark 14:3-9
 3 While *Jesus* was at Bethany in the house of Simon the leper, as he sat at the table, a woman came with an alabaster jar of very costly ointment of nard, and she broke open the jar and poured the ointment on his head.
 4 But some were there, *including the disciples,* who said to one another in anger, "Why was the ointment wasted in this way?
@@ -24,6 +28,8 @@ Mark 14:3-9
 7 For you always have the poor with you, and you can show kindness to them whenever you wish; but you will not always have me.
 8 She has done what she could; she has anointed my body beforehand for its burial.
 9 Truly I tell you, wherever the good news is proclaimed in the whole world, what she has done will be told in remembrance of her."
+
+## Judas Iscariot begins to fulfill his purpose
 
 Luke 22:3-4
 3 Then Satan entered into Judas called Iscariot, who was one of the twelve;
@@ -42,6 +48,8 @@ Matthew 26:15-16
 15 ... They paid him thirty pieces of silver.
 16 And from that moment he began to look for an opportunity to betray him.
 
+## The passover location is found
+
 Mark 14:12
 12 On the first day of Unleavened Bread, when the Passover lamb is sacrificed, his disciples came to Jesus and said to him, "Where do you want us to go and make the preparations for you to eat the Passover?"
 
@@ -57,6 +65,8 @@ Luke 22:10-13
 11 and say to the owner of the house, "The teacher asks you, "Where is the guest room, where I may eat the Passover with my disciples?" '
 12 He will show you a large room upstairs, already furnished. Make preparations for us there."
 13 So they went and found everything as he had told them; and they prepared the Passover meal.
+
+## Jesus washes the disciples' feet
 
 Mark 14:17
 17 When it was evening, he came with the twelve.
@@ -82,6 +92,8 @@ John 13:2-20
 19 I tell you this now, before it occurs, so that when it does occur, you may believe that I am he.
 20 Very truly, I tell you, whoever receives one whom I send receives me; and whoever receives me receives him who sent me."
 
+## Jesus declares one will betray him the first time
+
 Mark 14:18
 18 And when they had taken their places and were eating, Jesus *was troubled in spirit and declared*, *"Very* Truly I tell you, one of you will betray me, one who is eating with me."
 
@@ -92,6 +104,8 @@ Mark 14:19-21
 19 They began to be distressed and to say to him one after another, "Surely, not I?"
 20 He said to them, "It is one of the twelve, one who is dipping bread into the bowl with me.
 21 For the Son of Man goes as it is written of him, but woe to that one by whom the Son of Man is betrayed! It would have been better for that one not to have been born."
+
+## Jesus blesses his wine and food and wine
 
 Luke 22:15-19
 15 He said to them, "I have eagerly desired to eat this Passover with you before I suffer;
@@ -104,6 +118,8 @@ Matthew 26:27-29
 27 Then *after supper* he took a cup, and after giving thanks he gave it to them *and all of them drank from it*, saying, "Drink from it, all of you;
 28 for this is my blood of the covenant, which is poured out for many for the forgiveness of sins.
 29 I tell you, I will never again drink of this fruit of the vine until that day when I drink it new with you in my Father's kingdom."
+
+## Jesus again says he will be betrayed
 
 Luke 22:21-23
 21 But see, the one who betrays me is with me, and his hand is on the table.
@@ -125,6 +141,8 @@ John 13:23-35
 34 I give you a new commandment, that you love one another. Just as I have loved you, you also should love one another.
 35 By this everyone will know that you are my disciples, if you have love for one another."
 
+## The disciples dispute who will be greatest
+
 Luke 22:24-33
 24 A dispute also arose among them as to which one of them was to be regarded as the greatest.
 25 But he said to them, "The kings of the Gentiles lord it over them; and those in authority over them are called benefactors.
@@ -136,6 +154,8 @@ Luke 22:24-33
 31 "Simon, Simon, listen! Satan has demanded to sift all of you like wheat,
 32 but I have prayed for you that your own faith may not fail; and you, when once you have turned back, strengthen your brothers."
 33 And he said to him, "Lord, I am ready to go with you to prison and to death!"
+
+## Jesus prophecies Peter's denial the first time in John and Luke
 
 John 13:36-38
 36 Simon Peter said to him, "Lord, where are you going?" Jesus answered, "Where I am going, you cannot follow me now; but you will follow afterward."
@@ -152,6 +172,8 @@ Luke 22:34-38
 36 He said to them, "But now, the one who has a purse must take it, and likewise a bag. And the one who has no sword must sell his cloak and buy one.
 37 For I tell you, this scripture must be fulfilled in me, "And he was counted among the lawless'; and indeed what is written about me is being fulfilled."
 38 They said, "Lord, look, here are two swords." He replied, "It is enough."
+
+## Jesus gives his final speech at supper
 
 John 14:1-31
 1 *Jesus then said,* "Do not let your hearts be troubled. Believe in God, believe also in me.
@@ -185,6 +207,8 @@ John 14:1-31
 29 And now I have told you this before it occurs, so that when it does occur, you may believe.
 30 I will no longer talk much with you, for the ruler of this world is coming. He has no power over me;
 31 but I do as the Father has commanded me, so that the world may know that I love the Father. Rise, let us be on our way."
+
+## Jesus begins his travel to the Mount of Olives
 
 Luke 22:39
 39 *When they had sung the hymn*, He came out and went, as was his custom, to the Mount of Olives; and the disciples followed him.
@@ -221,6 +245,8 @@ John 15:1-27
 26 "When the Advocate comes, whom I will send to you from the Father, the Spirit of truth who comes from the Father, he will testify on my behalf.
 27 You also are to testify because you have been with me from the beginning.
 
+## Jesus foretells general Christian persecution
+
 John 16:1-33
 1 "I have said these things to you to keep you from stumbling.
 2 They will put you out of the synagogues. Indeed, an hour is coming when those who kill you will think that by doing so they are offering worship to God.
@@ -256,6 +282,8 @@ John 16:1-33
 32 The hour is coming, indeed it has come, when you will be scattered, each one to his home, and you will leave me alone. Yet I am not alone because the Father is with me.
 33 I have said this to you, so that in me you may have peace. In the world you face persecution. But take courage; I have conquered the world!"
 
+## Jesus glorifies the Father
+
 John 17:1-26
 1 After Jesus had spoken these words, he looked up to heaven and said, "Father, the hour has come; glorify your Son so that the Son may glorify you,
 2 since you have given him authority over all people, to give eternal life to all whom you have given him.
@@ -287,6 +315,8 @@ John 17:1-26
 John 18:1
 1 After Jesus had spoken these words, he went out with his disciples across the Kidron valley to a place *on the Mount of Olives* where there was a garden, which he and his disciples entered.
 
+## Jesus foretells Peter's denial the second time in Mark and Matthew
+
 Matthew 26:31-33
 31 Then Jesus said to them, "You will all become deserters because of me this night; for it is written, 'I will strike the shepherd, and the sheep of the flock will be scattered.'
 32 But after I am raised up, I will go ahead of you to Galilee."
@@ -301,6 +331,8 @@ Magnus
 Mark 14:31-32
 31 But he said vehemently, "Even though I must die with you, I will not deny you." And all of them said the same.
 32 They went to a place called Gethsemane; and he said to his disciples, "Sit here while I pray."
+
+## Jesus prays three times to remove his cup
 
 Luke 22:40
 40 When he reached the place, he said to them, "Pray that you may not come into the time of trial."
@@ -329,6 +361,8 @@ Luke 22:42-46
 44
 45 When he got up from prayer, he came to the disciples and found them sleeping because of grief,
 46 and he *came a third time and* said to them, "Why are you sleeping? Get up and pray that you may not come into the time of trial."
+
+## Judas arrives to betray Jesus
 
 Mark 14:41-43
 41 ... "Are you still sleeping and taking your rest? Enough! The hour has come; the Son of Man is betrayed into the hands of sinners.
@@ -368,6 +402,8 @@ John 18:6-9
 Matthew 26:50
 50 ... Then they came and laid hands on Jesus and arrested him.
 
+## Simon strikes Malchus' ear
+
 Luke 22:49
 49 When those who were around him saw what was coming, they asked, "Lord, should we strike with the sword?"
 
@@ -392,6 +428,8 @@ Mark 14:48-52
 51 A certain young man was following him, wearing nothing but a linen cloth. They caught hold of him,
 52 but he left the linen cloth and ran off naked.
 
+## Jesus is arrested and Simon follows
+
 John 18:12-14
 12 So the soldiers, their officer, and the Jewish police arrested Jesus and bound him.
 13 First they took him to Annas, who was the father-in-law of Caiaphas, the high priest that year.
@@ -406,6 +444,8 @@ John 18:15-16
 
 Magnus
 Meanwhile as that disciple was letting Peter in, Jesus was taken to Annas, who was not in the courtyard.
+
+## Annas questions Jesus
 
 John 18:19-24
 19 Then the high priest *(here seemingly Annas)* questioned Jesus about his disciples and about his teaching.
@@ -424,6 +464,8 @@ Mark 14:54
 Matthew 26:58
 58 ... He sat with the guards in order to see how this would end.
 
+## Many testify against Jesus
+
 Mark 14:55-60
 55 Now the chief priests and the whole council were looking for testimony against Jesus to put him to death; but they found none.
 56 For many gave false testimony against him, and their testimony did not agree.
@@ -441,6 +483,8 @@ Mark 14:63-65
 64 You have heard his blasphemy! What is your decision?" All of them condemned him as deserving death.
 65 Some began to spit on him, to blindfold him, and to strike him, saying to him, "Prophesy *to us, you Messiah! Who is it that struck you?*" The guards also took him over and beat him.
 
+## Peter denies Jesus once
+
 Mark 14:66-67
 66 *Before while Jesus spoke to Annas* while Peter was below in the courtyard, one of the servant-girls of the high priest came by.
 67 When she saw Peter warming himself, she stared at him *in the firelight* and said, "You also were with Jesus, the *Galilean* man from Nazareth."
@@ -451,6 +495,8 @@ John 18:17
 Mark 14:68-69
 68 *And* he denied *the other accusations before all of them*, saying, *"Woman I do not know him.* I do not know or understand what you are talking about." And he went out into the forecourt. Then the cock crowed.
 69 And the servant-girl, on seeing him, began again to say to the bystanders, "This man is one of them."
+
+## Peter denies Jesus a second time
 
 Matthew 26:71
 71 When he went out to the porch, another servant-girl saw him, and she said to the bystanders, "This man was with Jesus of Nazareth."
@@ -463,6 +509,8 @@ Luke 22:58
 
 Matthew 26:72
 72 Again he denied it with an oath, "I do not know the man."
+
+## Peter denies Jesus a third time
 
 Luke 22:59
 59 Then *after a little while, even* about an hour later still another kept insisting, "Surely this man also was with him; for he is a Galilean."
@@ -484,6 +532,8 @@ Luke 22:60-61
 Mark 14:72
 72 ... *and* "Before the cock crows twice, you will deny me three times." And he *went out* and broke down and wept.
 
+## Jesus is brought to Pilate
+
 Matthew 27:1
 1 When morning came, all the chief priests and the elders of the people conferred together against Jesus in order to bring about his death.
 
@@ -498,6 +548,8 @@ Luke 22:66-71
 John 18:28
 28 Then they *bound Jesus, led him away and* took Jesus from Caiaphas to Pilate's headquarters. It was early in the morning...
 
+## Judas' suicide
+
 Matthew 27:3-10
 3 When Judas, his betrayer, saw that Jesus was condemned, he repented and brought back the thirty pieces of silver to the chief priests and the elders.
 4 He said, "I have sinned by betraying innocent blood." But they said, "What is that to us? See to it yourself."
@@ -507,6 +559,8 @@ Matthew 27:3-10
 8 For this reason that field has been called the Field of Blood to this day.
 9 Then was fulfilled what had been spoken through the prophet Jeremiah, "And they took the thirty pieces of silver, the price of the one on whom a price had been set, on whom some of the people of Israel had set a price,
 10 and they gave them for the potter's field, as the Lord commanded me."
+
+## The Jews converse with Pilate
 
 John 18:28-30
 28 ... *The chief priests and elders of the people* themselves did not enter the headquarters, so as to avoid ritual defilement and to be able to eat the Passover.
@@ -556,6 +610,8 @@ Luke 23:5-17
 16 I will therefore have him flogged and release him."
 17
 
+## Barabbas is released
+
 Mark 15:6-8
 6 Now at the festival he used to release a prisoner for them, anyone for whom they asked.
 7 Now a *notorious* man called *Jesus* Barabbas was in prison with the rebels who had committed murder during the insurrection.
@@ -580,6 +636,8 @@ Luke 22:21-23
 21 ... they kept shouting, "Crucify, crucify him!
 22 A third time he said to them, "Why, what evil has he done? I have found in him no ground for the sentence of death; I will therefore have him flogged and then release him."
 23 But they kept urgently demanding with loud shouts that he should be crucified; and their voices prevailed.
+
+## Jesus is beaten and mocked
 
 Matthew 27:24-28
 24 So when Pilate saw that he could do nothing, but rather that a riot was beginning, he took some water and washed his hands before the crowd, saying, "I am innocent of this man's blood; see to it yourselves."
@@ -616,6 +674,8 @@ John 19:4-16
 Mark 15:20
 20 After mocking him, they stripped him of the purple cloak *and the robe* and put his own clothes on him. Then they led him out to crucify him.
 
+## Jesus goes to Golgotha
+
 Mark 15:21
 21 They *seized and* compelled a passer-by, who was coming in from the country, to carry his cross *behind Jesus*; it was Simon of Cyrene, the father of Alexander and Rufus.
 
@@ -641,6 +701,8 @@ Matthew 27:34
 
 Mark 15:23
 23 And they offered him wine mixed with myrrh; but he did not take it.
+
+## Jesus is crucified
 
 Mark 15:25
 25 It was nine o'clock in the morning when they crucified him.
@@ -699,6 +761,8 @@ Luke 23:39-45
 44 It was now about noon, and darkness came over the whole land until three in the afternoon,
 45 while the sun's light failed; ...
 
+## Jesus' final moments
+
 Mark 15:34-36
 34 At three o'clock Jesus cried out with a loud voice, "Eloi, Eloi, lema sabachthani?" which means, "My God, my God, why have you forsaken me?"
 35 When some of the bystanders heard it, they said, "Listen, he is calling for Elijah."
@@ -737,6 +801,8 @@ Luke 23:46
 Magnus
 For the body had given the cry, but the spirit had already left him, so this cry was the last connection between his mortal form and his divine soul.
 
+## Aftermath of Jesus' death
+
 Matthew 27:50-54
 50 *So* Jesus cried *these words* with a loud voice and breathed his last.
 51 At that moment the curtain of the temple was torn in two, from top to bottom. The earth shook, and the rocks were split.
@@ -766,6 +832,8 @@ For they had been standing near to him earlier, but it had become too much for t
 Matthew 27:56
 56 Among them were Mary Magdalene, and Mary the mother of James and Joseph, and *Salome who might be* the mother of the sons of Zebedee *(who was also there if not)*.
 
+## Joseph buries Jesus
+
 Mark 15:41-45
 41 These *(The two Marys and Salome)* used to follow him and provided for him when he was in Galilee; and there were many other women who had come up with him to Jerusalem.
 42 When evening had come, and since it was the day of Preparation, that is, the day before the sabbath,
@@ -792,12 +860,16 @@ Mark 15:47
 Luke 23:56
 56 Then they returned, and prepared spices and ointments. On the sabbath they rested according to the commandment.
 
+## Pilate assigns a guard
+
 Matthew 27:62-66
 62 The next day, that is, after the day of Preparation, the chief priests and the Pharisees gathered before Pilate
 63 and said, "Sir, we remember what that impostor said while he was still alive, 'After three days I will rise again.'
 64 Therefore command the tomb to be made secure until the third day; otherwise his disciples may go and steal him away, and tell the people, 'He has been raised from the dead,' and the last deception would be worse than the first."
 65 Pilate said to them, "You have a guard of soldiers; go, make it as secure as you can."
 66 So they went with the guard and made the tomb secure by sealing the stone.
+
+## Mary sees Jesus the first time in John
 
 John 20:1-10
 1 Early on the first day of the week, while it was still dark, Mary Magdalene came to the tomb and saw that the stone had been removed from the tomb.
@@ -827,6 +899,8 @@ Magnus
 So Mary Magdalene left, and ran into Mary the mother of James.
 But she became convinced she had seen a phantom, for she had not touched Jesus. So she resolved to go back and anoint Jesus' body with someone else so she would not be so easily misled.
 
+## Mary sees an angel again in Matthew
+
 Matthew 28:1-8
 1 After the sabbath, as the first day of the week was dawning, Mary Magdalene and the other Mary went to see the tomb.
 2 And suddenly there was a great earthquake; for an angel of the Lord, descending from heaven, came and rolled back the stone and sat on it.
@@ -841,6 +915,8 @@ Magnus
 But, after leaving the tomb, Mary Magdalene and Mary the mother of James passed Salome, who was bringing spices to anoint him. And Salome did not believe them.
 And the Marys wondered if they had really seen an angel. So they went with Salome.
 
+## Mary sees two angels in Mark
+
 Mark 16:2-8
 2 *So* very early on the first day of the week, when the sun had risen, they went to the tomb.
 3 They had been saying to one another, "Who will roll away the stone for us from the entrance to the tomb?"
@@ -853,6 +929,8 @@ Mark 16:2-8
 Matthew 28:9-10
 9 Suddenly Jesus met them and said, "Greetings!" And they came to him, took hold of his feet, and worshiped him.
 10 Then Jesus said to them, "Do not be afraid; go and tell my brothers to go to Galilee; there they will see me."
+
+## Other women see two men in Luke
 
 Luke 24:1
 1 But on the first day of the week, at early dawn, *the women who had come with him from Galilee* came to the tomb, taking the spices that they had prepared.
@@ -880,9 +958,18 @@ Luke 24:9-10
 Magnus
 For all the women had met on the road back from the tomb, and in their amazement told each other their stories.
 
-Luke 24:11-35
+## The apostles hear the women
+
+Luke 24:11-12
 11 But these words seemed to *the apostles* an idle tale, and they did not believe them.
 12 But Peter got up and ran to the tomb; stooping and looking in, he saw the linen cloths by themselves; then he went home, amazed at what had happened.
+
+Magnus
+For Peter had been in a great depression, and had a huge hangover, and the apostle that Jesus loved also; so they remembered nothing from that morning.
+
+## Jesus appears to two disciples in Luke
+
+Luke 24:13-35
 13 Now on that same day two of them were going to a village called Emmaus, about seven miles from Jerusalem,
 14 and talking with each other about all these things that had happened.
 15 While they were talking and discussing, Jesus himself came near and went with them,
@@ -906,6 +993,8 @@ Luke 24:11-35
 33 That same hour they got up and returned to Jerusalem; and they found the eleven and their companions gathered together.
 34 They were saying, "The Lord has risen indeed, and he has appeared to Simon!"
 35 Then they told what had happened on the road, and how he had been made known to them in the breaking of the bread.
+
+## Jesus appears to the eleven except Thomas in Luke(ish) and John
 
 John 20:19-23
 19 When it was evening on that day, the first day of the week, and the doors of the house where the disciples had met were locked for fear of the Jews, Jesus came and stood among them and said, "Peace be with you."
@@ -939,6 +1028,8 @@ So he perceived this was a test to see if the disciples would truly listen to wh
 And therefore, he told all the apostles they should go now to Galilee before Jerusalem. But the others were not sure if this was really what Jesus meant.
 So they bought 11 swift horses and rode hard the sixty miles from Jerusalem to Galilee, that they might soon return to Jerusalem.
 
+## 11 disciples go to Galilee in Matthew
+
 Matthew 28:11-16
 11 While they were going, some of the guard went into the city and told the chief priests everything that had happened.
 12 After the priests had assembled with the elders, they devised a plan to give a large sum of money to the soldiers,
@@ -970,6 +1061,8 @@ Luke 24:52-53
 52 And they worshiped him, and returned to Jerusalem with great joy;
 53 and they were continually in the temple blessing God.
 
+## In one week Jesus appears again in Jerusalem, including to Thomas
+
 John 20:24-31
 24 But Thomas (who was called the Twin), one of the twelve, was not with them when Jesus came.
 25 So the other disciples told him, "We have seen the Lord." But he said to them, "Unless I see the mark of the nails in his hands, and put my finger in the mark of the nails and my hand in his side, I will not believe."
@@ -979,6 +1072,8 @@ John 20:24-31
 29 Jesus said to him, "Have you believed because you have seen me? Blessed are those who have not seen and yet have come to believe."
 30 Now Jesus did many other signs in the presence of his disciples, which are not written in this book.
 31 But these are written so that you may come to believe that Jesus is the Messiah, the Son of God, and that through believing you may have life in his name.
+
+## Jesus appears for 40 days in Jerusalem in Luke(Acts)
 
 Acts 1:3-19
 3 After his suffering he presented himself alive to them by many convincing proofs, appearing to them during forty days and speaking about the kingdom of God.
@@ -1021,6 +1116,8 @@ And to ask Jesus which disciple should become the new twelfth apostle, they cast
 And while Jesus was teaching the meaning of the scriptures and opening their eyes for 40 days after his resurrection,
 He had never once thought to tell them the meaning of how to fulfill the scripture so that Jesus would have twelve loyal apostles.
 But he divinely guided the lots that they cast to allow them to show His will and not random chance anyway.
+
+## Jesus appears on a fishing trip in John
 
 John 21:1-2
 1 After these things Jesus showed himself again to the disciples by the Sea of Tiberias; and he showed himself in this way.
