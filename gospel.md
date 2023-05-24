@@ -12,6 +12,10 @@ Luke 22:2
 Matthew 26:5
 5 But they said, "Not during the festival, or there may be a riot among the people."
 
+John 13:1-2
+1 Now before the festival of the Passover, Jesus knew that his hour had come to depart from this world and go to the Father. Having loved his own who were in the world, he loved them to the end.
+2 The devil had already put it into the heart of Judas son of Simon Iscariot to betray him...
+
 Mark 14:3-9
 3 While *Jesus* was at Bethany in the house of Simon the leper, as he sat at the table, a woman came with an alabaster jar of very costly ointment of nard, and she broke open the jar and poured the ointment on his head.
 4 But some were there, *including the disciples,* who said to one another in anger, "Why was the ointment wasted in this way?
@@ -54,9 +58,37 @@ Luke 22:10-13
 12 He will show you a large room upstairs, already furnished. Make preparations for us there."
 13 So they went and found everything as he had told them; and they prepared the Passover meal.
 
-Mark 14:17-21
+Mark 14:17
 17 When it was evening, he came with the twelve.
-18 And when they had taken their places and were eating, Jesus said, "Truly I tell you, one of you will betray me, one who is eating with me."
+
+John 13:2-20
+2 ... And during supper
+3 Jesus, knowing that the Father had given all things into his hands, and that he had come from God and was going to God,
+4 got up from the table, took off his outer robe, and tied a towel around himself.
+5 Then he poured water into a basin and began to wash the disciples' feet and to wipe them with the towel that was tied around him.
+6 He came to Simon Peter, who said to him, "Lord, are you going to wash my feet?"
+7 Jesus answered, "You do not know now what I am doing, but later you will understand."
+8 Peter said to him, "You will never wash my feet." Jesus answered, "Unless I wash you, you have no share with me."
+9 Simon Peter said to him, "Lord, not my feet only but also my hands and my head!"
+10 Jesus said to him, "One who has bathed does not need to wash, except for the feet, but is entirely clean. And you are clean, though not all of you."
+11 For he knew who was to betray him; for this reason he said, "Not all of you are clean."
+12 After he had washed their feet, had put on his robe, and had returned to the table, he said to them, "Do you know what I have done to you?
+13 You call me Teacher and Lord—and you are right, for that is what I am.
+14 So if I, your Lord and Teacher, have washed your feet, you also ought to wash one another's feet.
+15 For I have set you an example, that you also should do as I have done to you.
+16 Very truly, I tell you, servants are not greater than their master, nor are messengers greater than the one who sent them.
+17 If you know these things, you are blessed if you do them.
+18 I am not speaking of all of you; I know whom I have chosen. But it is to fulfill the scripture, "The one who ate my bread has lifted his heel against me."
+19 I tell you this now, before it occurs, so that when it does occur, you may believe that I am he.
+20 Very truly, I tell you, whoever receives one whom I send receives me; and whoever receives me receives him who sent me."
+
+Mark 14:18
+18 And when they had taken their places and were eating, Jesus *was troubled in spirit and declared*, *"Very* Truly I tell you, one of you will betray me, one who is eating with me."
+
+John 13:22
+22 The disciples looked at one another, uncertain of whom he was speaking.
+
+Mark 14:19-21
 19 They began to be distressed and to say to him one after another, "Surely, not I?"
 20 He said to them, "It is one of the twelve, one who is dipping bread into the bowl with me.
 21 For the Son of Man goes as it is written of him, but woe to that one by whom the Son of Man is betrayed! It would have been better for that one not to have been born."
@@ -70,13 +102,30 @@ Luke 22:15-19
 
 Matthew 26:27-29
 27 Then *after supper* he took a cup, and after giving thanks he gave it to them *and all of them drank from it*, saying, "Drink from it, all of you;
-28 for this *cup that is poured out for you is the new covenant in my blood*, my blood of the covenant, which is poured out for many for the forgiveness of sins.
+28 for this is my blood of the covenant, which is poured out for many for the forgiveness of sins.
 29 I tell you, I will never again drink of this fruit of the vine until that day when I drink it new with you in my Father's kingdom."
 
-Luke 22:21-39
+Luke 22:21-23
 21 But see, the one who betrays me is with me, and his hand is on the table.
 22 For the Son of Man is going as it has been determined, but woe to that one by whom he is betrayed!"
 23 Then they began to ask one another which one of them it could be who would do this.
+
+John 13:23-35
+23 One of his disciples — the one whom Jesus loved — was reclining next to him;
+24 Simon Peter therefore motioned to him to ask Jesus of whom he was speaking.
+25 So while reclining next to Jesus, he asked him, "Lord, who is it?"
+26 Jesus answered, "It is the one to whom I give this piece of bread when I have dipped it in the dish." So when he had dipped the piece of bread, he gave it to Judas son of Simon Iscariot.
+27 After he received the piece of bread, Satan entered into him. Jesus said to him, "Do quickly what you are going to do."
+28 Now no one at the table knew why he said this to him.
+29 Some thought that, because Judas had the common purse, Jesus was telling him, "Buy what we need for the festival"; or, that he should give something to the poor.
+30 So, after receiving the piece of bread, he immediately went out. And it was night.
+31 When he had gone out, Jesus said, "Now the Son of Man has been glorified, and God has been glorified in him.
+32 If God has been glorified in him, God will also glorify him in himself and will glorify him at once.
+33 Little children, I am with you only a little longer. You will look for me; and as I said to the Jews so now I say to you, "Where I am going, you cannot come.'
+34 I give you a new commandment, that you love one another. Just as I have loved you, you also should love one another.
+35 By this everyone will know that you are my disciples, if you have love for one another."
+
+Luke 22:24-33
 24 A dispute also arose among them as to which one of them was to be regarded as the greatest.
 25 But he said to them, "The kings of the Gentiles lord it over them; and those in authority over them are called benefactors.
 26 But not so with you; rather the greatest among you must become like the youngest, and the leader like one who serves.
@@ -87,12 +136,156 @@ Luke 22:21-39
 31 "Simon, Simon, listen! Satan has demanded to sift all of you like wheat,
 32 but I have prayed for you that your own faith may not fail; and you, when once you have turned back, strengthen your brothers."
 33 And he said to him, "Lord, I am ready to go with you to prison and to death!"
+
+John 13:31-38
+36 Simon Peter said to him, "Lord, where are you going?" Jesus answered, "Where I am going, you cannot follow me now; but you will follow afterward."
+37 Peter said to him, "Lord, why can I not follow you now? I will lay down my life for you."
+38 Jesus answered, "Will you lay down your life for me? Very truly, I tell you, before the cock crows, you will have denied me three times.
+
+Magnus
+Having become angry at Simon for his seemingly malicious misunderstanding as Jesus has tried to tell him what was happening several times, Jesus amended his previous words;
+For the previous prophecy was slightly incorrect, and would not come to pass.
+
+Luke 22:34-38
 34 Jesus said, "I tell you, Peter, the cock will not crow this day, until you have denied three times that you know me."
 35 He said to them, "When I sent you out without a purse, bag, or sandals, did you lack anything?" They said, "No, not a thing."
 36 He said to them, "But now, the one who has a purse must take it, and likewise a bag. And the one who has no sword must sell his cloak and buy one.
 37 For I tell you, this scripture must be fulfilled in me, "And he was counted among the lawless'; and indeed what is written about me is being fulfilled."
 38 They said, "Lord, look, here are two swords." He replied, "It is enough."
+
+John 14:1-31
+1 *Jesus then said,* "Do not let your hearts be troubled. Believe in God, believe also in me.
+2 In my Father's house there are many dwelling places. If it were not so, would I have told you that I go to prepare a place for you?
+3 And if I go and prepare a place for you, I will come again and will take you to myself, so that where I am, there you may be also.
+4 And you know the way to the place where I am going."
+5 Thomas said to him, "Lord, we do not know where you are going. How can we know the way?"
+6 Jesus said to him, "I am the way, and the truth, and the life. No one comes to the Father except through me.
+7 If you know me, you will know my Father also. From now on you do know him and have seen him."
+8 Philip said to him, "Lord, show us the Father, and we will be satisfied."
+9 Jesus said to him, "Have I been with you all this time, Philip, and you still do not know me? Whoever has seen me has seen the Father. How can you say, "Show us the Father'?
+10 Do you not believe that I am in the Father and the Father is in me? The words that I say to you I do not speak on my own; but the Father who dwells in me does his works.
+11 Believe me that I am in the Father and the Father is in me; but if you do not, then believe me because of the works themselves.
+12 Very truly, I tell you, the one who believes in me will also do the works that I do and, in fact, will do greater works than these, because I am going to the Father.
+13 I will do whatever you ask in my name, so that the Father may be glorified in the Son.
+14 If in my name you ask me for anything, I will do it.
+15 "If you love me, you will keep my commandments.
+16 And I will ask the Father, and he will give you another Advocate, to be with you forever.
+17 This is the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him. You know him, because he abides with you, and he will be in you.
+18 "I will not leave you orphaned; I am coming to you.
+19 In a little while the world will no longer see me, but you will see me; because I live, you also will live.
+20 On that day you will know that I am in my Father, and you in me, and I in you.
+21 They who have my commandments and keep them are those who love me; and those who love me will be loved by my Father, and I will love them and reveal myself to them."
+22 Judas (not Iscariot) said to him, "Lord, how is it that you will reveal yourself to us, and not to the world?"
+23 Jesus answered him, "Those who love me will keep my word, and my Father will love them, and we will come to them and make our home with them.
+24 Whoever does not love me does not keep my words; and the word that you hear is not mine, but is from the Father who sent me.
+25 "I have said these things to you while I am still with you.
+26 But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you everything, and remind you of all that I have said to you.
+27 Peace I leave with you; my peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled, and do not let them be afraid.
+28 You heard me say to you, "I am going away, and I am coming to you.' If you loved me, you would rejoice that I am going to the Father, because the Father is greater than I.
+29 And now I have told you this before it occurs, so that when it does occur, you may believe.
+30 I will no longer talk much with you, for the ruler of this world is coming. He has no power over me;
+31 but I do as the Father has commanded me, so that the world may know that I love the Father. Rise, let us be on our way."
+
+Luke 22:39
 39 *When they had sung the hymn*, He came out and went, as was his custom, to the Mount of Olives; and the disciples followed him.
+
+Magnus
+And he continued speaking on the way:
+
+John 15:1-27
+1 "I am the true vine, and my Father is the vinegrower.
+2 He removes every branch in me that bears no fruit. Every branch that bears fruit he prunes to make it bear more fruit.
+3 You have already been cleansed by the word that I have spoken to you.
+4 Abide in me as I abide in you. Just as the branch cannot bear fruit by itself unless it abides in the vine, neither can you unless you abide in me.
+5 I am the vine, you are the branches. Those who abide in me and I in them bear much fruit, because apart from me you can do nothing.
+6 Whoever does not abide in me is thrown away like a branch and withers; such branches are gathered, thrown into the fire, and burned.
+7 If you abide in me, and my words abide in you, ask for whatever you wish, and it will be done for you.
+8 My Father is glorified by this, that you bear much fruit and become my disciples.
+9 As the Father has loved me, so I have loved you; abide in my love.
+10 If you keep my commandments, you will abide in my love, just as I have kept my Father's commandments and abide in his love.
+11 I have said these things to you so that my joy may be in you, and that your joy may be complete.
+12 "This is my commandment, that you love one another as I have loved you.
+13 No one has greater love than this, to lay down one's life for one's friends.
+14 You are my friends if you do what I command you.
+15 I do not call you servants any longer, because the servant does not know what the master is doing; but I have called you friends, because I have made known to you everything that I have heard from my Father.
+16 You did not choose me but I chose you. And I appointed you to go and bear fruit, fruit that will last, so that the Father will give you whatever you ask him in my name.
+17 I am giving you these commands so that you may love one another.
+18 "If the world hates you, be aware that it hated me before it hated you.
+19 If you belonged to the world, the world would love you as its own. Because you do not belong to the world, but I have chosen you out of the world—therefore the world hates you.
+20 Remember the word that I said to you, "Servants are not greater than their master.' If they persecuted me, they will persecute you; if they kept my word, they will keep yours also.
+21 But they will do all these things to you on account of my name, because they do not know him who sent me.
+22 If I had not come and spoken to them, they would not have sin; but now they have no excuse for their sin.
+23 Whoever hates me hates my Father also.
+24 If I had not done among them the works that no one else did, they would not have sin. But now they have seen and hated both me and my Father.
+25 It was to fulfill the word that is written in their law, "They hated me without a cause.'
+26 "When the Advocate comes, whom I will send to you from the Father, the Spirit of truth who comes from the Father, he will testify on my behalf.
+27 You also are to testify because you have been with me from the beginning.
+
+John 16:1-33
+1 "I have said these things to you to keep you from stumbling.
+2 They will put you out of the synagogues. Indeed, an hour is coming when those who kill you will think that by doing so they are offering worship to God.
+3 And they will do this because they have not known the Father or me.
+4 But I have said these things to you so that when their hour comes you may remember that I told you about them. "I did not say these things to you from the beginning, because I was with you.
+5 But now I am going to him who sent me; yet none of you asks me, "Where are you going?'
+6 But because I have said these things to you, sorrow has filled your hearts.
+7 Nevertheless I tell you the truth: it is to your advantage that I go away, for if I do not go away, the Advocate will not come to you; but if I go, I will send him to you.
+8 And when he comes, he will prove the world wrong about sin and righteousness and judgment:
+9 about sin, because they do not believe in me;
+10 about righteousness, because I am going to the Father and you will see me no longer;
+11 about judgment, because the ruler of this world has been condemned.
+12 "I still have many things to say to you, but you cannot bear them now.
+13 When the Spirit of truth comes, he will guide you into all the truth; for he will not speak on his own, but will speak whatever he hears, and he will declare to you the things that are to come.
+14 He will glorify me, because he will take what is mine and declare it to you.
+15 All that the Father has is mine. For this reason I said that he will take what is mine and declare it to you.
+16 "A little while, and you will no longer see me, and again a little while, and you will see me."
+17 Then some of his disciples said to one another, "What does he mean by saying to us, "A little while, and you will no longer see me, and again a little while, and you will see me'; and "Because I am going to the Father'?"
+18 They said, "What does he mean by this "a little while'? We do not know what he is talking about."
+19 Jesus knew that they wanted to ask him, so he said to them, "Are you discussing among yourselves what I meant when I said, "A little while, and you will no longer see me, and again a little while, and you will see me'?
+20 Very truly, I tell you, you will weep and mourn, but the world will rejoice; you will have pain, but your pain will turn into joy.
+21 When a woman is in labor, she has pain, because her hour has come. But when her child is born, she no longer remembers the anguish because of the joy of having brought a human being into the world.
+22 So you have pain now; but I will see you again, and your hearts will rejoice, and no one will take your joy from you.
+23 On that day you will ask nothing of me. Very truly, I tell you, if you ask anything of the Father in my name, he will give it to you.
+24 Until now you have not asked for anything in my name. Ask and you will receive, so that your joy may be complete.
+25 "I have said these things to you in figures of speech. The hour is coming when I will no longer speak to you in figures, but will tell you plainly of the Father.
+26 On that day you will ask in my name. I do not say to you that I will ask the Father on your behalf;
+27 for the Father himself loves you, because you have loved me and have believed that I came from God.
+28 I came from the Father and have come into the world; again, I am leaving the world and am going to the Father."
+29 His disciples said, "Yes, now you are speaking plainly, not in any figure of speech!
+30 Now we know that you know all things, and do not need to have anyone question you; by this we believe that you came from God."
+31 Jesus answered them, "Do you now believe?
+32 The hour is coming, indeed it has come, when you will be scattered, each one to his home, and you will leave me alone. Yet I am not alone because the Father is with me.
+33 I have said this to you, so that in me you may have peace. In the world you face persecution. But take courage; I have conquered the world!"
+
+John 17:1-26
+1 After Jesus had spoken these words, he looked up to heaven and said, "Father, the hour has come; glorify your Son so that the Son may glorify you,
+2 since you have given him authority over all people, to give eternal life to all whom you have given him.
+3 And this is eternal life, that they may know you, the only true God, and Jesus Christ whom you have sent.
+4 I glorified you on earth by finishing the work that you gave me to do.
+5 So now, Father, glorify me in your own presence with the glory that I had in your presence before the world existed.
+6 "I have made your name known to those whom you gave me from the world. They were yours, and you gave them to me, and they have kept your word.
+7 Now they know that everything you have given me is from you;
+8 for the words that you gave to me I have given to them, and they have received them and know in truth that I came from you; and they have believed that you sent me.
+9 I am asking on their behalf; I am not asking on behalf of the world, but on behalf of those whom you gave me, because they are yours.
+10 All mine are yours, and yours are mine; and I have been glorified in them.
+11 And now I am no longer in the world, but they are in the world, and I am coming to you. Holy Father, protect them in your name that you have given me, so that they may be one, as we are one.
+12 While I was with them, I protected them in your name that you have given me. I guarded them, and not one of them was lost except the one destined to be lost, so that the scripture might be fulfilled.
+13 But now I am coming to you, and I speak these things in the world so that they may have my joy made complete in themselves.
+14 I have given them your word, and the world has hated them because they do not belong to the world, just as I do not belong to the world.
+15 I am not asking you to take them out of the world, but I ask you to protect them from the evil one.
+16 They do not belong to the world, just as I do not belong to the world.
+17 Sanctify them in the truth; your word is truth.
+18 As you have sent me into the world, so I have sent them into the world.
+19 And for their sakes I sanctify myself, so that they also may be sanctified in truth.
+20 "I ask not only on behalf of these, but also on behalf of those who will believe in me through their word,
+21 that they may all be one. As you, Father, are in me and I am in you, may they also be in us, so that the world may believe that you have sent me.
+22 The glory that you have given me I have given them, so that they may be one, as we are one,
+23 I in them and you in me, that they may become completely one, so that the world may know that you have sent me and have loved them even as you have loved me.
+24 Father, I desire that those also, whom you have given me, may be with me where I am, to see my glory, which you have given me because you loved me before the foundation of the world.
+25 "Righteous Father, the world does not know you, but I know you; and these know that you have sent me.
+26 I made your name known to them, and I will make it known, so that the love with which you have loved me may be in them, and I in them."
+
+John 18:1
+1 After Jesus had spoken these words, he went out with his disciples across the Kidron valley to a place *on the Mount of Olives* where there was a garden, which he and his disciples entered.
 
 Matthew 26:31-33
 31 Then Jesus said to them, "You will all become deserters because of me this night; for it is written, 'I will strike the shepherd, and the sheep of the flock will be scattered.'
@@ -103,7 +296,7 @@ Mark 14:30
 30 Jesus said to him, "Truly I tell you, this day, this very night, before the cock crows twice, you will deny me three times."
 
 Magnus
-(Thus he added to his first prophecy, for the cock would crow that night once, then once in the day. But this was done to fulfill the words of the scripture, both Luke 22:34 and Mark 14:30.)
+(Thus he added to his second and correct prophecy, for the cock would crow that night once, then once in the day. But this was done to fulfill the words of the scripture, both Luke 22:34 and Mark 14:30.)
 
 Mark 14:31-32
 31 But he said vehemently, "Even though I must die with you, I will not deny you." And all of them said the same.
@@ -137,10 +330,16 @@ Luke 22:42-46
 45 When he got up from prayer, he came to the disciples and found them sleeping because of grief,
 46 and he *came a third time and* said to them, "Why are you sleeping? Get up and pray that you may not come into the time of trial."
 
-Mark 14:41-45
+Mark 14:41-43
 41 ... "Are you still sleeping and taking your rest? Enough! The hour has come; the Son of Man is betrayed into the hands of sinners.
 42 Get up, let us be going. See, my betrayer is at hand."
 43 Immediately, while he was still speaking, Judas, one of the twelve, arrived; and *he led* a crowd with swords and clubs, from the chief priests, the scribes, and the elders.
+
+John 18:2-3
+2 *For* Judas, who betrayed him, also knew the place, because Jesus often met there with his disciples.
+3 So Judas brought a detachment of soldiers together with police from the chief priests and the Pharisees, and they came there with lanterns and torches and weapons.
+
+Mark 14:44-45
 44 Now the betrayer had given them a sign, saying, "The one I will kiss is the man; arrest him and lead him away under guard."
 45 So when he came, he went up to him at once and said, "Rabbi!" ...
 
@@ -151,19 +350,40 @@ Mark 14:45
 45 ... and kissed him.
 
 Matthew 26:50
-50 Jesus said to him, "Friend, do what you are here to do." Then they came and laid hands on Jesus and arrested him.
+50 Jesus said to him, "Friend, do what you are here to do." ...
+
+John 18:4-5
+4 Then Jesus, knowing all that was to happen to him, came forward and asked them, "Whom are you looking for?"
+5 They answered, "Jesus of Nazareth." Jesus replied, "I am he." Judas, who betrayed him, was standing with them.
+
+Magnus
+For Judas had gone back to them after kissing him, baffled that Jesus would so knowingly give himself away.
+
+John 18:6-9
+6 When Jesus said to them, "I am he," they stepped back and fell to the ground.
+7 Again he asked them, "Whom are you looking for?" And they said, "Jesus of Nazareth."
+8 Jesus answered, "I told you that I am he. So if you are looking for me, let these men go."
+9 This was to fulfill the word that he had spoken, "I did not lose a single one of those whom you gave me."
+
+Matthew 26:50
+50 ... Then they came and laid hands on Jesus and arrested him.
 
 Luke 22:49
 49 When those who were around him saw what was coming, they asked, "Lord, should we strike with the sword?"
 
-Matthew 26:51-54
-51 Suddenly, one of those with Jesus put his hand on his sword, drew it, and struck the slave of the high priest, cutting off his *right* ear.
-52 Then Jesus said to him, *"No more of this!* Put your sword back into its place; for all who take the sword will perish by the sword.
+John 18:10
+10 Then *suddenly* Simon Peter, who had a sword, *put his hand on his sword*, drew it, struck the high priest's slave, and cut off his right ear. The slave's name was Malchus.
+
+Matthew 26:52-54
+52 Then Jesus said to him, *"No more of this!* Put your sword back into its *sheath*; for all who take the sword will perish by the sword.
 53 Do you think that I cannot appeal to my Father, and he will at once send me more than twelve legions of angels?
 54 But how then would the scriptures be fulfilled, which say it must happen in this way?"
 
+John 18:11
+11 ... "Am I not to drink the cup that the Father has given me?"
+
 Luke 22:51
-51 ... And he touched his ear and healed him.
+51 ... And he touched *Malchus'* ear and healed him.
 
 Mark 14:48-52
 48 Then Jesus said to them, "Have you come out with swords and clubs to arrest me as though I were a bandit?
@@ -172,11 +392,34 @@ Mark 14:48-52
 51 A certain young man was following him, wearing nothing but a linen cloth. They caught hold of him,
 52 but he left the linen cloth and ran off naked.
 
+John 18:12-14
+12 So the soldiers, their officer, and the Jewish police arrested Jesus and bound him.
+13 First they took him to Annas, who was the father-in-law of Caiaphas, the high priest that year.
+14 Caiaphas was the one who had advised the Jews that it was better to have one person die for the people.
+
 Matthew 26:57
 57 Those who had arrested Jesus took him to Caiaphas the high priest, in whose house the scribes and the elders had gathered.
 
+John 18:15-16
+15 Simon Peter and another disciple followed Jesus *at a distance*. Since that disciple was known to the high priest, he went with Jesus into the courtyard of the high priest,
+16 but Peter was standing outside at the gate. So the other disciple, who was known to the high priest, went out, spoke to the woman who guarded the gate, and brought Peter in.
+
+Magnus
+Meanwhile as that disciple was letting Peter in, Jesus was taken to Annas, who was not in the courtyard.
+
+John 18:19-23
+19 Then the high priest *(here seemingly Annas)* questioned Jesus about his disciples and about his teaching.
+20 Jesus answered, "I have spoken openly to the world; I have always taught in synagogues and in the temple, where all the Jews come together. I have said nothing in secret.
+21 Why do you ask me? Ask those who heard what I said to them; they know what I said."
+22 When he had said this, one of the police standing nearby struck Jesus on the face, saying, "Is that how you answer the high priest?"
+23 Jesus answered, "If I have spoken wrongly, testify to the wrong. But if I have spoken rightly, why do you strike me?"
+24 Then Annas sent him bound to Caiaphas the high priest.
+
+Magnus
+Who was in the actual courtyard now.
+
 Mark 14:54
-54 Peter had followed him at a distance, right into the *middle of the* courtyard of the high priest; and he was sitting with the guards, warming himself at the fire.
+54 ... *Peter went* right into the *middle of the* courtyard of the high priest; and he was sitting with the guards, warming himself at the *charcoal* fire.
 
 Matthew 26:58
 58 ... He sat with the guards in order to see how this would end.
@@ -193,26 +436,42 @@ Matthew 26:63-64
 63 But Jesus was silent. Then the high priest said to him, "I put you under oath before the living God, tell us if you are the Messiah, the Son of God."
 64 Jesus said to him, "*I am*. You have said so. But I tell you, From now on you will see the Son of Man seated at the right hand of Power and coming on the clouds of heaven."
 
-Mark 14:63-69
+Mark 14:63-65
 63 Then the high priest tore his clothes and said, "*He has blasphemed!* Why do we still need witnesses?
 64 You have heard his blasphemy! What is your decision?" All of them condemned him as deserving death.
 65 Some began to spit on him, to blindfold him, and to strike him, saying to him, "Prophesy *to us, you Messiah! Who is it that struck you?*" The guards also took him over and beat him.
-66 *Meanwhile* while Peter was below in the courtyard, one of the servant-girls of the high priest came by.
+
+Mark 14:66-67
+66 *Before while Jesus spoke to Annas* while Peter was below in the courtyard, one of the servant-girls of the high priest came by.
 67 When she saw Peter warming himself, she stared at him *in the firelight* and said, "You also were with Jesus, the *Galilean* man from Nazareth."
-68 But he denied it *before all of them*, saying, *"Woman I do not know him.* I do not know or understand what you are talking about." And he went out into the forecourt. Then the cock crowed.
+
+John 18:17
+17 The woman *who guarded the gate passed by and also at this time* said to Peter, "You are not also one of this man's disciples, are you?" He said, "I am not."
+
+Mark 14:68-69
+68 *And* he denied *the other accusations before all of them*, saying, *"Woman I do not know him.* I do not know or understand what you are talking about." And he went out into the forecourt. Then the cock crowed.
 69 And the servant-girl, on seeing him, began again to say to the bystanders, "This man is one of them."
 
 Matthew 26:71
 71 When he went out to the porch, another servant-girl saw him, and she said to the bystanders, "This man was with Jesus of Nazareth."
 
 Luke 22:58
-58 Someone else, on seeing him, said, "You also are one of them." But Peter said, "Man, I am not!"
+58 Someone else, on seeing him, said, "You also are one of them." ...
+
+John 18:25
+25 Now Simon Peter was standing and warming himself. They asked him, "You are not also one of his disciples, are you?" ...
+
+Luke 22:58
+58 Someone else, on seeing him, said, "You also are one of them." But Peter *denied it and* said, "Man, I am not!"
 
 Matthew 26:72
 72 Again he denied it with an oath, "I do not know the man."
 
 Luke 22:59
 59 Then *after a little while, even* about an hour later still another kept insisting, "Surely this man also was with him; for he is a Galilean."
+
+John 18:26
+26 One of the slaves of the high priest, a relative of the man whose ear Peter had cut off, asked, "Did I not see you in the garden with him?"
 
 Matthew 26:73
 73 ... the bystanders came up and said to Peter, "Certainly you are also one of them, for your accent betrays you."
@@ -239,8 +498,10 @@ Luke 22:66-71
 70 All of them asked, "Are you, then, the Son of God?" He said to them, "You say that I am."
 71 Then they said, "What further testimony do we need? We have heard it ourselves from his own lips!"
 
-Matthew 27:2-10
-2 They bound him, led him away, and handed him over to Pilate the governor.
+John 18:28
+28 Then they *bound Jesus, led him away and* took Jesus from Caiaphas to Pilate's headquarters. It was early in the morning...
+
+Matthew 27:3-10
 3 When Judas, his betrayer, saw that Jesus was condemned, he repented and brought back the thirty pieces of silver to the chief priests and the elders.
 4 He said, "I have sinned by betraying innocent blood." But they said, "What is that to us? See to it yourself."
 5 Throwing down the pieces of silver in the temple, he departed; and he went and hanged himself.
@@ -250,14 +511,28 @@ Matthew 27:2-10
 9 Then was fulfilled what had been spoken through the prophet Jeremiah, "And they took the thirty pieces of silver, the price of the one on whom a price had been set, on whom some of the people of Israel had set a price,
 10 and they gave them for the potter's field, as the Lord commanded me."
 
+John 18:28-30
+28 ... *The chief priests and elders of the people* themselves did not enter the headquarters, so as to avoid ritual defilement and to be able to eat the Passover.
+29 So Pilate went out to them and said, "What accusation do you bring against this man?"
+30 They answered, "If this man were not a criminal, we would not have handed him over to you."
+
 Luke 23:2
 2 They began to accuse him, saying, "We found this man perverting our nation, forbidding us to pay taxes to the emperor, and saying that he himself is the Messiah, a king."
 
-Matthew 27:11
-11 Now Jesus stood before the governor; and the governor asked him, "Are you the King of the Jews?" Jesus said, "You say so."
+John 18:31-40
+31 Pilate said to them, "Take him yourselves and judge him according to your law." The Jews replied, "We are not permitted to put anyone to death."
+32 (This was to fulfill what Jesus had said when he indicated the kind of death he was to die.)
+33 Then Pilate entered the headquarters again, summoned Jesus, and asked him, "Are you the King of the Jews?"
+34 Jesus answered, "Do you ask this on your own, or did others tell you about me?"
+35 Pilate replied, "I am not a Jew, am I? Your own nation and the chief priests have handed you over to me. What have you done?"
+36 Jesus answered, "My kingdom is not from this world. If my kingdom were from this world, my followers would be fighting to keep me from being handed over to the Jews. But as it is, my kingdom is not from here."
+37 Pilate asked him, "So you are a king?" Jesus answered, *"You say so;* You say that I am a king. For this I was born, and for this I came into the world, to testify to the truth. Everyone who belongs to the truth listens to my voice."
+38 Pilate asked him, "What is truth?" After he had said this, he went out to the Jews again and told them, "I find no case against him.
+39 But you have a custom that I release someone for you at the Passover. Do you want me to release for you the King of the Jews?"
+40 They shouted in reply, "Not this man, but Barabbas!" Now Barabbas was a bandit.
 
 Luke 23:4
-4 Then Pilate said to the chief priests and the crowds, "I find no basis for an accusation against this man.
+4 Then Pilate *still* said to the chief priests and the crowds, "I find no basis for an accusation against this man.
 
 Mark 15:3
 3 Then the chief priests accused him of many things.
@@ -319,13 +594,39 @@ Matthew 27:24-28
 Mark 15:17
 17 And they clothed him in a purple cloak; and after twisting some thorns into a crown, they put it on him.
 
+John 19:2-3
+2 ... and they dressed him in a purple robe.
+
 Matthew 27:29-30
 29 ... They put a reed in his right hand and knelt before him and mocked him, saying, "Hail, King of the Jews!"
-30 They spat on him, and took the reed and struck him on the head.
+30 They spat on him, and took the reed and struck him on the head *and face*.
 
-Mark 15:20-21
+John 19:4-16
+4 Pilate went out again and said to them, "Look, I am bringing him out to you to let you know that I find no case against him."
+5 So Jesus came out, wearing the crown of thorns and the purple robe. Pilate said to them, "Here is the man!"
+6 When the chief priests and the police saw him, they shouted, "Crucify him! Crucify him!" Pilate said to them, "Take him yourselves and crucify him; I find no case against him."
+7 The Jews answered him, "We have a law, and according to that law he ought to die because he has claimed to be the Son of God."
+8 Now when Pilate heard this, he was more afraid than ever.
+9 He entered his headquarters again and asked Jesus, "Where are you from?" But Jesus gave him no answer.
+10 Pilate therefore said to him, "Do you refuse to speak to me? Do you not know that I have power to release you, and power to crucify you?"
+11 Jesus answered him, "You would have no power over me unless it had been given you from above; therefore the one who handed me over to you is guilty of a greater sin."
+12 From then on Pilate tried to release him, but the Jews cried out, "If you release this man, you are no friend of the emperor. Everyone who claims to be a king sets himself against the emperor."
+13 When Pilate heard these words, he brought Jesus outside and sat on the judge's bench at a place called The Stone Pavement, or in Hebrew Gabbatha.
+14 Now it was the day of Preparation for the Passover; and it was *the sixth hour (not noon but 6am, according to the Roman time system)*. He said to the Jews, "Here is your King!"
+15 They cried out, "Away with him! Away with him! Crucify him!" Pilate asked them, "Shall I crucify your King?" The chief priests answered, "We have no king but the emperor."
+16 Then he handed him over to them to be crucified. So they took Jesus;
+
+Mark 15:20
 20 After mocking him, they stripped him of the purple cloak *and the robe* and put his own clothes on him. Then they led him out to crucify him.
+
+Mark 15:21
 21 They *seized and* compelled a passer-by, who was coming in from the country, to carry his cross *behind Jesus*; it was Simon of Cyrene, the father of Alexander and Rufus.
+
+John 19:17
+17 and *Jesus* carrying the cross by himself, he went out to what is called The Place of the Skull, which in Hebrew is called Golgotha.
+
+Magnus
+For Jesus carried a cross by himself, and Simon of Cyrene carried Jesus' cross, but actually Jesus carried the cross of one of the two criminals who would be crucified.
 
 Luke 23:27-32
 27 A great number of the people followed him, and among them were women who were beating their breasts and wailing for him.
@@ -350,10 +651,34 @@ Mark 15:25
 Luke 23:34
 34 [Then Jesus said, "Father, forgive them; for they do not know what they are doing."] ...
 
-Matthew 27:35-43
-35 And when they had crucified him, they divided his clothes among themselves by casting lots;
+John 19:23-24
+23 When the soldiers had crucified Jesus, they took his clothes and divided them into four parts, one for each soldier. They also took his tunic; now the tunic was seamless, woven in one piece from the top.
+24 So they said to one another, "Let us not tear it, but cast lots for it to see who will get it." This was to fulfill what the scripture says, "They divided my clothes among themselves, and for my clothing they cast lots."
+
+Matthew 27:35-38
+35 *So* when they had crucified him, they divided his clothes among themselves by casting lots;
 36 then they sat down there and kept watch over him.
-37  Over his head they put the *inscription of the* charge against him, which read, "This is Jesus, the King of the Jews."
+37  Over his head they put the *inscription of the* charge against him...
+
+John 19:19-20
+19 Pilate also had an inscription written and put on the cross...
+20 Many of the Jews read this inscription, because the place where Jesus was crucified was near the city; and it was written in Hebrew, in Latin, and in Greek.
+
+Magnus
+So it was written in Aramaic from Matthew: "This is Jesus, the King of the Jews"
+And in Latin from Luke and Mark: This is the King of the Jews"
+And in Greek from John: "Jesus of Nazareth, the King of the Jews"
+
+John 19:21-22
+21 Then the chief priests of the Jews said to Pilate, "Do not write, "The King of the Jews,' but, "This man said, I am King of the Jews.' "
+22 Pilate answered, "What I have written I have written."
+
+John 19:25-27
+25 ... Meanwhile, standing near the cross of Jesus were his mother, and his mother's sister, Mary the wife of Clopas, and Mary Magdalene.
+26 When Jesus saw his mother and the disciple whom he loved standing beside her, he said to his mother, "Woman, here is your son."
+27 Then he said to the disciple, "Here is your mother." And from that hour the disciple took her into his own home.
+
+Matthew 27:38-43
 38 Then two bandits were crucified with him, one on his right and one on his left.
 39 Those who passed by derided him, shaking their heads
 40 and saying, "*Aha!* You who would destroy the temple and build it in three days, save yourself! If you are the Son of God, come down from the cross."
@@ -380,10 +705,18 @@ Luke 23:39-45
 Mark 15:34-36
 34 At three o'clock Jesus cried out with a loud voice, "Eloi, Eloi, lema sabachthani?" which means, "My God, my God, why have you forsaken me?"
 35 When some of the bystanders heard it, they said, "Listen, he is calling for Elijah."
-36 And someone ran, filled a sponge with sour wine, put it on a stick, and gave it to him to drink, saying, "Wait, let us see whether Elijah will come to take him down."
+36 And someone ran *at once and got a sponge*, filled *the* sponge with sour wine, put it on a stick, and gave it to him to drink, saying, "Wait, let us see whether Elijah will come to take him down."
 
 Matthew 27:49
 49 But the others said, "Wait, let us see whether Elijah will come to save him."
+
+John 19:28-30
+28 After this, when Jesus knew that all was now finished, he said (in order to fulfill the scripture), "I am thirsty."
+29 A jar full of sour wine was standing there. So they put a sponge full of the wine on a branch of hyssop and held it to his mouth.
+30 When Jesus had received the wine, he said, "It is finished." Then he bowed his head and gave up his spirit.
+
+Magnus
+For here Jesus was using the finer technical aspects of the Science of Souls, but his body continued living for a short period, connected to the spirit which was slowly going out of his body.
 
 Luke 23:45
 45 ... and the curtain of the temple was torn in two.
@@ -399,10 +732,13 @@ And they lacked faith, all the scribes, and did not believe the great signs they
 So they only thought about how much money it would cost to quickly replace the huge curtain, so that no record of its having ever been torn would enter into the writings of Men.
 And later, after the resurrection, the disciples had forgotten (for they all were slightly brain damaged from falling on their faces) whether the curtain had split before or after Jesus' final words;
 And Jesus rebuked them greatly for it, when they began to debate this point. So they shrunk from him and determined not to bother getting the whole story when recounting the Gospels.
-But this was all done to fulfill the scriptures, both that Jesus died before the temple curtain split in Luke, and that he died after the temple curtain split in Matthew and Mark, but that no further details were forthcoming on this point.
+But this was all done to fulfill the scriptures, both that Jesus died before the temple curtain split in Luke, and that he died after the temple curtain split in Matthew and Mark, and John forgot all about it and the further miracles, but that no further details were forthcoming on this point.
 
 Luke 23:46
 46 Then Jesus, crying with a loud voice, said, "Father, into your hands I commend my spirit." Having said this, he breathed his last.
+
+Magnus
+For the body had given the cry, but the spirit had already left him, so this cry was the last connection between his mortal form and his divine soul.
 
 Matthew 27:50-54
 50 *So* Jesus cried *these words* with a loud voice and breathed his last.
@@ -411,21 +747,43 @@ Matthew 27:50-54
 53 After his resurrection they came out of the tombs and entered the holy city and appeared to many.
 54 Now when the centurion and those with him, who were keeping watch over Jesus, saw the earthquake and what took place, they were terrified and said, "Truly this man was God's Son!"
 
-Luke 23:47-49
+Luke 23:47-48
 47 *The centurion* praised God and said, "Certainly this man was innocent."
 48 And when all the crowds who had gathered there for this spectacle saw what had taken place, they returned home, beating their breasts.
+
+John 19:31-37
+31 Since it was the day of Preparation, the Jews did not want the bodies left on the cross during the sabbath, especially because that sabbath was a day of great solemnity. So they asked Pilate to have the legs of the crucified men broken and the bodies removed.
+32 Then the soldiers came and broke the legs of the first and of the other who had been crucified with him.
+33 But when they came to Jesus and saw that he was already dead, they did not break his legs.
+34 Instead, one of the soldiers pierced his side with a spear, and at once blood and water came out.
+35 (He who saw this has testified so that you also may believe. His testimony is true, and he knows that he tells the truth.)
+36 These things occurred so that the scripture might be fulfilled, "None of his bones shall be broken."
+37 And again another passage of scripture says, "They will look on the one whom they have pierced."
+
+Luke 23:49
 49 But all his acquaintances, including the *many* women who had followed him from Galilee *and provided for him*, stood *looking on him* at a distance, watching these things.
+
+Magnus
+For they had been standing near to him earlier, but it had become too much for them to bear, so they had ran away; but could not bring themselves to leave, so when they came back they were at a distance.
 
 Matthew 27:56
 56 Among them were Mary Magdalene, and Mary the mother of James and Joseph, and *Salome who might be* the mother of the sons of Zebedee *(who was also there if not)*.
 
-Mark 15:41-46
+Mark 15:41-45
 41 These *(The two Marys and Salome)* used to follow him and provided for him when he was in Galilee; and there were many other women who had come up with him to Jerusalem.
 42 When evening had come, and since it was the day of Preparation, that is, the day before the sabbath,
-43 Joseph of Arimathea, a respected member of the council, who was also himself waiting expectantly for the kingdom of God, went boldly to Pilate and asked for the body of Jesus.
+43 Joseph of Arimathea, a respected member of the council, who was also himself waiting expectantly for the kingdom of God, *and was a disciple of Jesus, though a secret one because of his fear of the Jews*, went boldly to Pilate and asked for the body of Jesus *so he could take it away*.
 44 Then Pilate wondered if he were already dead; and summoning the centurion, he asked him whether he had been dead for some time.
 45 When he learned from the centurion that he was dead, he granted the body to Joseph; *he ordered it to be given to him*.
-46 Then Joseph bought a linen cloth, and taking down the body, wrapped it in the linen cloth, and laid it in a tomb that had been hewn out of the rock *where no one had ever been laid*. He then rolled a stone against the door of the tomb *and went away*.
+
+John 19:39-42
+39 Nicodemus, who had at first come to Jesus by night, also came, bringing a mixture of myrrh and aloes, weighing about a hundred pounds.
+40 They took the body of Jesus and wrapped it with the spices in linen cloths, according to the burial custom of the Jews.
+41 Now there was a garden in the place where he was crucified, and in the garden there was a new tomb in which no one had ever been laid.
+42 And so, because it was the Jewish day of Preparation, and the tomb was nearby, they laid Jesus there.
+
+Mark 15:46
+46 ... *Joseph laid the body* in *his own* tomb that *he had* hewn out of the rock. He then rolled a *great* stone against the door of the tomb *and went away*.
 
 Luke 23:54-55
 54 It was the day of Preparation, and the sabbath was beginning.
