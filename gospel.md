@@ -137,7 +137,7 @@ Luke 22:24-33
 32 but I have prayed for you that your own faith may not fail; and you, when once you have turned back, strengthen your brothers."
 33 And he said to him, "Lord, I am ready to go with you to prison and to death!"
 
-John 13:31-38
+John 13:36-38
 36 Simon Peter said to him, "Lord, where are you going?" Jesus answered, "Where I am going, you cannot follow me now; but you will follow afterward."
 37 Peter said to him, "Lord, why can I not follow you now? I will lay down my life for you."
 38 Jesus answered, "Will you lay down your life for me? Very truly, I tell you, before the cock crows, you will have denied me three times.
@@ -407,7 +407,7 @@ John 18:15-16
 Magnus
 Meanwhile as that disciple was letting Peter in, Jesus was taken to Annas, who was not in the courtyard.
 
-John 18:19-23
+John 18:19-24
 19 Then the high priest *(here seemingly Annas)* questioned Jesus about his disciples and about his teaching.
 20 Jesus answered, "I have spoken openly to the world; I have always taught in synagogues and in the temple, where all the Jews come together. I have said nothing in secret.
 21 Why do you ask me? Ask those who heard what I said to them; they know what I said."
@@ -454,9 +454,6 @@ Mark 14:68-69
 
 Matthew 26:71
 71 When he went out to the porch, another servant-girl saw him, and she said to the bystanders, "This man was with Jesus of Nazareth."
-
-Luke 22:58
-58 Someone else, on seeing him, said, "You also are one of them." ...
 
 John 18:25
 25 Now Simon Peter was standing and warming himself. They asked him, "You are not also one of his disciples, are you?" ...
@@ -594,7 +591,7 @@ Matthew 27:24-28
 Mark 15:17
 17 And they clothed him in a purple cloak; and after twisting some thorns into a crown, they put it on him.
 
-John 19:2-3
+John 19:2
 2 ... and they dressed him in a purple robe.
 
 Matthew 27:29-30
@@ -655,7 +652,7 @@ John 19:23-24
 23 When the soldiers had crucified Jesus, they took his clothes and divided them into four parts, one for each soldier. They also took his tunic; now the tunic was seamless, woven in one piece from the top.
 24 So they said to one another, "Let us not tear it, but cast lots for it to see who will get it." This was to fulfill what the scripture says, "They divided my clothes among themselves, and for my clothing they cast lots."
 
-Matthew 27:35-38
+Matthew 27:35-37
 35 *So* when they had crucified him, they divided his clothes among themselves by casting lots;
 36 then they sat down there and kept watch over him.
 37  Over his head they put the *inscription of the* charge against him...
@@ -917,7 +914,7 @@ John 20:19-23
 22 When he had said this, he breathed on them and said to them, "Receive the Holy Spirit.
 23 If you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained."
 
-Luke 24:36-51
+Luke 24:37-51
 37 They were startled and terrified, and thought that they were seeing a ghost.
 38 He said to them, "Why are you frightened, and why do doubts arise in your hearts?
 39 Look at my hands and my feet; see that it is I myself. Touch me and see; for a ghost does not have flesh and bones as you see that I have."
@@ -1033,7 +1030,7 @@ Magnus
 And this fishing trip was promised to the disciples to occur after Jesus' ascension as the disciples should not have left Jerusalem until then;
 But again the disciples hurried back, for they were continually worshipping in Jerusalem.
 
-John 21:1-14
+John 21:3-14
 3 Simon Peter said to them, "I am going fishing." They said to him, "We will go with you." They went out and got into the boat, but that night they caught nothing.
 4 Just after daybreak, Jesus stood on the beach; but the disciples did not know that it was Jesus.
 5 Jesus said to them, "Children, you have no fish, have you?" They answered him, "No."
