@@ -1,4 +1,4 @@
-# The Gospel according to Mark and Matthew and Luke also
+# The Gospel according to Mark and Matthew and Luke and John all
 
 Matthew 26:1-4
 1 When Jesus had finished saying all these things, he said to his disciples,
@@ -802,6 +802,34 @@ Matthew 27:62-66
 65 Pilate said to them, "You have a guard of soldiers; go, make it as secure as you can."
 66 So they went with the guard and made the tomb secure by sealing the stone.
 
+John 20:1-10
+1 Early on the first day of the week, while it was still dark, Mary Magdalene came to the tomb and saw that the stone had been removed from the tomb.
+2 So she ran and went to Simon Peter and the other disciple, the one whom Jesus loved, and said to them, "They have taken the Lord out of the tomb, and we do not know where they have laid him."
+3 Then Peter and the other disciple set out and went toward the tomb.
+4 The two were running together, but the other disciple outran Peter and reached the tomb first.
+5 He bent down to look in and saw the linen wrappings lying there, but he did not go in.
+6 Then Simon Peter came, following him, and went into the tomb. He saw the linen wrappings lying there,
+7 and the cloth that had been on Jesus' head, not lying with the linen wrappings but rolled up in a place by itself.
+8 Then the other disciple, who reached the tomb first, also went in, and he saw and believed;
+9 for as yet they did not understand the scripture, that he must rise from the dead.
+10 Then the disciples returned to their homes.
+
+Magnus
+But before they left, they got a new stone and rolled it back into place, being somewhat confused.
+
+John 20:11-17
+11 But Mary stood weeping outside the tomb. As she wept, she bent over to look into the tomb;
+12 and she saw two angels in white, sitting where the body of Jesus had been lying, one at the head and the other at the feet.
+13 They said to her, "Woman, why are you weeping?" She said to them, "They have taken away my Lord, and I do not know where they have laid him."
+14 When she had said this, she turned around and saw Jesus standing there, but she did not know that it was Jesus.
+15 Jesus said to her, "Woman, why are you weeping? Whom are you looking for?" Supposing him to be the gardener, she said to him, "Sir, if you have carried him away, tell me where you have laid him, and I will take him away."
+16 Jesus said to her, "Mary!" She turned and said to him in Hebrew, "Rabbouni!" (which means Teacher).
+17 Jesus said to her, "Do not hold on to me, because I have not yet ascended to the Father. But go to my brothers and say to them, "I am ascending to my Father and your Father, to my God and your God.' "
+
+Magnus
+So Mary Magdalene left, and ran into Mary the mother of James.
+But she became convinced she had seen a phantom, for she had not touched Jesus. So she resolved to go back and anoint Jesus' body with someone else so she would not be so easily misled.
+
 Matthew 28:1-8
 1 After the sabbath, as the first day of the week was dawning, Mary Magdalene and the other Mary went to see the tomb.
 2 And suddenly there was a great earthquake; for an angel of the Lord, descending from heaven, came and rolled back the stone and sat on it.
@@ -817,7 +845,7 @@ But, after leaving the tomb, Mary Magdalene and Mary the mother of James passed 
 And the Marys wondered if they had really seen an angel. So they went with Salome.
 
 Mark 16:2-8
-2 *So* very early on the first day of the week, when the sun had risen, they went *again* to the tomb.
+2 *So* very early on the first day of the week, when the sun had risen, they went to the tomb.
 3 They had been saying to one another, "Who will roll away the stone for us from the entrance to the tomb?"
 4 When they looked up, they saw that the stone, which was very large, had already been rolled back.
 5 As they entered the tomb, they saw a young man, dressed in a white robe, sitting on the right side; and they were alarmed.
@@ -836,7 +864,7 @@ Magnus
 These were Joanna and some other women with them, but not Mary Magdalene or Mary the mother of James, nor Salome.
 For those had already held the feet of the risen Christ, and believed.
 
-Luke 24:2-10
+Luke 24:2-8
 2 They found the stone rolled away from the tomb,
 3 but when they went in, they did not find the body.
 4 While they were perplexed about this, suddenly two men in dazzling clothes stood beside them.
@@ -844,13 +872,18 @@ Luke 24:2-10
 6 Remember how he told you, while he was still in Galilee,
 7 that the Son of Man must be handed over to sinners, and be crucified, and on the third day rise again."
 8 Then they remembered his words,
+
+John 20:18
+18 Mary Magdalene went and announced to the disciples, "I have seen the Lord"; and she told them that he had said these things to her.
+
+Luke 24:9-10
 9 and returning from the tomb, they told all this to the eleven and to all the rest.
 10 Now it was Mary Magdalene, Joanna, Mary the mother of James, and the other women with them who told this to the apostles.
 
 Magnus
 For all the women had met on the road back from the tomb, and in their amazement told each other their stories.
 
-Luke 24:11-51
+Luke 24:11-35
 11 But these words seemed to *the apostles* an idle tale, and they did not believe them.
 12 But Peter got up and ran to the tomb; stooping and looking in, he saw the linen cloths by themselves; then he went home, amazed at what had happened.
 13 Now on that same day two of them were going to a village called Emmaus, about seven miles from Jerusalem,
@@ -876,7 +909,15 @@ Luke 24:11-51
 33 That same hour they got up and returned to Jerusalem; and they found the eleven and their companions gathered together.
 34 They were saying, "The Lord has risen indeed, and he has appeared to Simon!"
 35 Then they told what had happened on the road, and how he had been made known to them in the breaking of the bread.
-36 While they were talking about this, Jesus himself stood among them and said to them, "Peace be with you."
+
+John 20:19-23
+19 When it was evening on that day, the first day of the week, and the doors of the house where the disciples had met were locked for fear of the Jews, Jesus came and stood among them and said, "Peace be with you."
+20 After he said this, he showed them his hands and his side. Then the disciples rejoiced when they saw the Lord.
+21 Jesus said to them again, "Peace be with you. As the Father has sent me, so I send you."
+22 When he had said this, he breathed on them and said to them, "Receive the Holy Spirit.
+23 If you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained."
+
+Luke 24:36-51
 37 They were startled and terrified, and thought that they were seeing a ghost.
 38 He said to them, "Why are you frightened, and why do doubts arise in your hearts?
 39 Look at my hands and my feet; see that it is I myself. Touch me and see; for a ghost does not have flesh and bones as you see that I have."
@@ -901,13 +942,18 @@ So he perceived this was a test to see if the disciples would truly listen to wh
 And therefore, he told all the apostles they should go now to Galilee before Jerusalem. But the others were not sure if this was really what Jesus meant.
 So they bought 11 swift horses and rode hard the sixty miles from Jerusalem to Galilee, that they might soon return to Jerusalem.
 
-Matthew 28:11-17
+Matthew 28:11-16
 11 While they were going, some of the guard went into the city and told the chief priests everything that had happened.
 12 After the priests had assembled with the elders, they devised a plan to give a large sum of money to the soldiers,
 13 telling them, "You must say, "His disciples came by night and stole him away while we were asleep.'
 14 If this comes to the governor's ears, we will satisfy him and keep you out of trouble."
 15 So they took the money and did as they were directed. And this story is still told among the Jews to this day.
 16 Now the eleven disciples went to Galilee, to the mountain to which Jesus had directed them.
+
+Magnus
+These eleven disciples were the ten apostles except Thomas the Twin, and Mary Magdalene who had convinced them to go.
+
+Matthew 28:17
 17 When they saw him, they worshiped him; but some doubted.
 
 Magnus
@@ -927,7 +973,93 @@ Luke 24:52-53
 52 And they worshiped him, and returned to Jerusalem with great joy;
 53 and they were continually in the temple blessing God.
 
-Acts 1:3-5
+John 20:24-31
+24 But Thomas (who was called the Twin), one of the twelve, was not with them when Jesus came.
+25 So the other disciples told him, "We have seen the Lord." But he said to them, "Unless I see the mark of the nails in his hands, and put my finger in the mark of the nails and my hand in his side, I will not believe."
+26 A week later his disciples were again in the house, and Thomas was with them. Although the doors were shut, Jesus came and stood among them and said, "Peace be with you."
+27 Then he said to Thomas, "Put your finger here and see my hands. Reach out your hand and put it in my side. Do not doubt but believe."
+28 Thomas answered him, "My Lord and my God!"
+29 Jesus said to him, "Have you believed because you have seen me? Blessed are those who have not seen and yet have come to believe."
+30 Now Jesus did many other signs in the presence of his disciples, which are not written in this book.
+31 But these are written so that you may come to believe that Jesus is the Messiah, the Son of God, and that through believing you may have life in his name.
+
+Acts 1:3-19
 3 After his suffering he presented himself alive to them by many convincing proofs, appearing to them during forty days and speaking about the kingdom of God.
 4 While staying with them, he ordered them not to leave Jerusalem, but to wait there for the promise of the Father. "This," he said, "is what you have heard from me;
 5 for John baptized with water, but you will be baptized with the Holy Spirit not many days from now."
+6 So when they had come together, they asked him, "Lord, is this the time when you will restore the kingdom to Israel?"
+7 He replied, "It is not for you to know the times or periods that the Father has set by his own authority.
+8 But you will receive power when the Holy Spirit has come upon you; and you will be my witnesses in Jerusalem, in all Judea and Samaria, and to the ends of the earth."
+9 When he had said this, as they were watching, he was lifted up, and a cloud took him out of their sight.
+10 While he was going and they were gazing up toward heaven, suddenly two men in white robes stood by them.
+11 They said, "Men of Galilee, why do you stand looking up toward heaven? This Jesus, who has been taken up from you into heaven, will come in the same way as you saw him go into heaven."
+12 Then they returned to Jerusalem from the mount called Olivet, which is near Jerusalem, a sabbath day's journey away.
+13 When they had entered the city, they went to the room upstairs where they were staying, Peter, and John, and James, and Andrew, Philip and Thomas, Bartholomew and Matthew, James son of Alphaeus, and Simon the Zealot, and Judas son of James.
+14 All these were constantly devoting themselves to prayer, together with certain women, including Mary the mother of Jesus, as well as his brothers.
+15 In those days Peter stood up among the believers (together the crowd numbered about one hundred twenty persons) and said,
+16 "Friends, the scripture had to be fulfilled, which the Holy Spirit through David foretold concerning Judas, who became a guide for those who arrested Jesus—
+17 for he was numbered among us and was allotted his share in this ministry."
+18 (Now this man acquired a field with the reward of his wickedness; and falling headlong, he burst open in the middle and all his bowels gushed out.
+19 This became known to all the residents of Jerusalem, so that the field was called in their language Hakeldama, that is, Field of Blood.)
+
+Magnus
+Now what happened here was that Judas, hanging himself, had hung himself by slipping a rope onto a flimsy branch which protruded from a tall cliff.
+So after skillfully and carefully attaching the hangman's rope, he leapt off the cliff to hang himself and died.
+Then, the branch snapped and he fell and was dashed against a rock far below, so that his bowels gushed out.
+But this was done so that the scripture could be fulfilled, both Acts 1:18 and Matthew 27:5.
+And the comment about acquiring a field is ironic, for the priests of the temple bought it after his death.
+And everyone in Jerusalem was aware of this, for it is so obvious that this was the course of events that they did not need to be recorded in any more specific detail by either author.
+
+Acts 1:20-26
+20 "For it is written in the book of Psalms, "Let his homestead become desolate, and let there be no one to live in it'; and "Let another take his position of overseer.'
+21 So one of the men who have accompanied us during all the time that the Lord Jesus went in and out among us,
+22 beginning from the baptism of John until the day when he was taken up from us—one of these must become a witness with us to his resurrection."
+23 So they proposed two, Joseph called Barsabbas, who was also known as Justus, and Matthias.
+24 Then they prayed and said, "Lord, you know everyone's heart. Show us which one of these two you have chosen
+25 to take the place in this ministry and apostleship from which Judas turned aside to go to his own place."
+26 And they cast lots for them, and the lot fell on Matthias; and he was added to the eleven apostles.
+
+Magnus
+And to ask Jesus which disciple should become the new twelfth apostle, they cast lots, because Jesus had already ascended to heaven.
+And while Jesus was teaching the meaning of the scriptures and opening their eyes for 40 days after his resurrection,
+He had never once thought to tell them the meaning of how to fulfill the scripture so that Jesus would have twelve loyal apostles.
+But he divinely guided the lots that they cast to allow them to show His will and not random chance anyway.
+
+John 21:1-2
+1 After these things Jesus showed himself again to the disciples by the Sea of Tiberias; and he showed himself in this way.
+2 Gathered there together were Simon Peter, Thomas called the Twin, Nathanael of Cana in Galilee, the sons of Zebedee, and two others of his disciples.
+
+Magnus
+And this fishing trip was promised to the disciples to occur after Jesus' ascension as the disciples should not have left Jerusalem until then;
+But again the disciples hurried back, for they were continually worshipping in Jerusalem.
+
+John 21:1-14
+3 Simon Peter said to them, "I am going fishing." They said to him, "We will go with you." They went out and got into the boat, but that night they caught nothing.
+4 Just after daybreak, Jesus stood on the beach; but the disciples did not know that it was Jesus.
+5 Jesus said to them, "Children, you have no fish, have you?" They answered him, "No."
+6 He said to them, "Cast the net to the right side of the boat, and you will find some." So they cast it, and now they were not able to haul it in because there were so many fish.
+7 That disciple whom Jesus loved said to Peter, "It is the Lord!" When Simon Peter heard that it was the Lord, he put on some clothes, for he was naked, and jumped into the sea.
+8 But the other disciples came in the boat, dragging the net full of fish, for they were not far from the land, only about a hundred yards off.
+9 When they had gone ashore, they saw a charcoal fire there, with fish on it, and bread.
+10 Jesus said to them, "Bring some of the fish that you have just caught."
+11 So Simon Peter went aboard and hauled the net ashore, full of large fish, a hundred fifty-three of them; and though there were so many, the net was not torn.
+12 Jesus said to them, "Come and have breakfast." Now none of the disciples dared to ask him, "Who are you?" because they knew it was the Lord.
+13 Jesus came and took the bread and gave it to them, and did the same with the fish.
+14 This was now the third time that Jesus appeared to the disciples after he was raised from the dead.
+
+Magnus
+This specifically refers to those two random disciples listed in verse 2; for they had been dozing in Jerusalem all after the resurrection and only seen him 2 times so far in the forty days that Jesus continually appeared in Jerusalem.
+And one of these disciples is the author, referred to in verse 24: that is why he did not give a greater account of the many other appearances.
+
+John 21:15-25
+15 When they had finished breakfast, Jesus said to Simon Peter, "Simon son of John, do you love me more than these?" He said to him, "Yes, Lord; you know that I love you." Jesus said to him, "Feed my lambs."
+16 A second time he said to him, "Simon son of John, do you love me?" He said to him, "Yes, Lord; you know that I love you." Jesus said to him, "Tend my sheep."
+17 He said to him the third time, "Simon son of John, do you love me?" Peter felt hurt because he said to him the third time, "Do you love me?" And he said to him, "Lord, you know everything; you know that I love you." Jesus said to him, "Feed my sheep.
+18 Very truly, I tell you, when you were younger, you used to fasten your own belt and to go wherever you wished. But when you grow old, you will stretch out your hands, and someone else will fasten a belt around you and take you where you do not wish to go."
+19 (He said this to indicate the kind of death by which he would glorify God.) After this he said to him, "Follow me."
+20 Peter turned and saw the disciple whom Jesus loved following them; he was the one who had reclined next to Jesus at the supper and had said, "Lord, who is it that is going to betray you?"
+21 When Peter saw him, he said to Jesus, "Lord, what about him?"
+22 Jesus said to him, "If it is my will that he remain until I come, what is that to you? Follow me!"
+23 So the rumor spread in the community that this disciple would not die. Yet Jesus did not say to him that he would not die, but, "If it is my will that he remain until I come, what is that to you?"
+24 This is the disciple who is testifying to these things and has written them, and we know that his testimony is true.
+25 But there are also many other things that Jesus did; if every one of them were written down, I suppose that the world itself could not contain the books that would be written.
